@@ -1,0 +1,17 @@
+.button{
+    background-color:rgb(30, 95, 148) ;
+    padding: 1;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    border: none;
+}
+
+.button:hover{
+    background-color: rgb(66, 66, 169);
+}
+
+.categoryText{
+    color: 'gray';
+    font-size: 20px;
+}
